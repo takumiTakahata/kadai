@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TB
+flowchart LR
     subgraph 目的
     a1["ゆで卵を食べる"]
     end
